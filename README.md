@@ -2,7 +2,7 @@
 
 Audit sitemap.xml and robots.txt for duplicate, blocked, noindex, and canonical-mismatched URLs — and report only the checks you actually ran.
 
-[![CI](https://github.com/hai02487/sitemap-audit-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/hai02487/sitemap-audit-skill/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/haiderstudio/sitemap-audit-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/haiderstudio/sitemap-audit-skill/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
 
 ## What it does
 
